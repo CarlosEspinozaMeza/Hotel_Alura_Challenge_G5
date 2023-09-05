@@ -86,5 +86,5 @@ Públicado en el topic:
 
 **Autor 🧑:**
 
-| Carlos Espinoza]([https://github.com/EduardoUT](https://github.com/CarlosEspinozaMeza)https://github.com/CarlosEspinozaMeza) |
+| Carlos Espinoza([https://github.com/EduardoUT](https://github.com/CarlosEspinozaMeza)https://github.com/CarlosEspinozaMeza) |
 | :---: |
