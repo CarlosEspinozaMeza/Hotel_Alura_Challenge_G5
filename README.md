@@ -1,4 +1,4 @@
-Challenge Seis de Seis | Formación Java Orientado a Objetos | Hotel Alura
+ | Formación Java Orientado a Objetos | Hotel Alura
 
 <h1 align="center">Hotel Alura :coffee:</h1>
 
