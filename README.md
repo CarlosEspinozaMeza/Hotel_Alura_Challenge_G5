@@ -1,4 +1,4 @@
-Formación Java Orientado a Objetos | Hotel Alura
+Challenge Seis de Seis | Formación Java Orientado a Objetos | Hotel Alura
 
 <h1 align="center">Hotel Alura :coffee:</h1>
 
@@ -86,5 +86,5 @@ Públicado en el topic:
 
 **Autor 🧑:**
 
-| Carlos Espinoza https://github.com/CarlosEspinozaMeza |
+| [<img src="https://avatars.githubusercontent.com/u/60370547?s=400&u=c31036d0dc68db0d1fe71e36211360a84fc923f8&v=4" width=115><br><sub>Eduardo Reyes Hernández</sub>](https://github.com/EduardoUT) |
 | :---: |
