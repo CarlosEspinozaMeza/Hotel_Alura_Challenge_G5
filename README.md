@@ -86,5 +86,5 @@ Públicado en el topic:
 
 **Autor 🧑:**
 
-| [<img src="https://avatars.githubusercontent.com/u/60370547?s=400&u=c31036d0dc68db0d1fe71e36211360a84fc923f8&v=4" width=115><br><sub>Eduardo Reyes Hernández</sub>](https://github.com/EduardoUT) |
+| Carlos Espinoza Meza |
 | :---: |
